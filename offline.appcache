@@ -1,12 +1,17 @@
 ﻿CACHE MANIFEST
-#1364764121
+#1364799851
 index.html
 c2runtime.js
 jquery-1.7.1.min.js
 logo.png
 images\ground-sheet0.png
 images\joaquin-sheet0.png
-images\angli-sheet0.png
+images\panda-sheet0.png
+images\panda-sheet1.png
+images\panda-sheet2.png
+images\panda-sheet3.png
+images\panda-sheet4.png
+images\panda-sheet5.png
 images\bote-sheet0.png
 images\tiledbackground.png
 images\fondo-sheet0.png
@@ -16,5 +21,6 @@ images\derecha-sheet0.png
 images\ganador-sheet0.png
 images\limite-sheet0.png
 images\contador-sheet0.png
+images\sprite-sheet0.png
 NETWORK:
 *
